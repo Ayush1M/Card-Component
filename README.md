@@ -19,7 +19,13 @@ Its a basic Card Component made with HTML and CSS and mainly focuses on flexbox 
 
 ## Screenshot
 
-![](./images/dishapp.png)
+* Desktop design
+
+![](./images/cardcomponentpreview.png)
+
+* Mobile design
+
+![](./images/mobilepreview.png)
 
 ## Technologies I Used
 * Semantic HTML5
